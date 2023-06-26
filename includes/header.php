@@ -30,7 +30,7 @@
           <a class="nav-link" href="listar_ingreso.php">Servicios</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Contacto</a>
+          <a class="nav-link" href="listar_pedido.php">Pedido</a>
         </li>
       </ul>
     </div>
